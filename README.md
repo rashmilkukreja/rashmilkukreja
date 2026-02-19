@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+  ⭐ Thanks for visiting my profile!
 </p>
