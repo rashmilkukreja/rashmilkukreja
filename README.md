@@ -102,7 +102,6 @@ Built and hosted a static CV/portfolio website with AWS S3, Route 53, Bootstrap,
 
 - HashiCorp Certified: Terraform Associate
 - Kubernetes and Cloud Native Associate (KCNA)
-- AWS Certified DevOps Engineer
 - Docker Certified Associate
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Certified Java Programmer
